@@ -1,0 +1,82 @@
+/* Devloperlist.css */
+
+/* Developer Detail Container */
+
+  /* Navbar */
+  .navbar1 {
+    background: linear-gradient(to right, #30e3ca, #11999e); /* Gradient color */
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    color: #fff; /* Text color */
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  /* Aligning text to the right */
+  .navbar1 h1 {
+    text-align: right;
+  }
+  
+  /* Search Container */
+  .search-container {
+    margin-bottom: 1rem;
+  }
+  
+  /* Search Input */
+  .search-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #11999e; /* Border color */
+    border-radius: 5px;
+    background-color: #e4f9f5; /* Background color */
+    color: #40514e; /* Text color */
+  }
+  
+  /* Table */
+  .active-days-table1 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .active-days-table1 th,
+  .active-days-table1 td {
+    border: 1px solid black;
+    padding: 0.5rem;
+  }
+  
+  .active-days-table1 th {
+    background-color: #30e3ca; /* Light gray background color for table header */
+  }
+  
+  .active-days-table1 tr:nth-child(even) {
+    background-color: #f9f9f9; /* Alternate row background color */
+  }
+  
+  /* Button */
+  .view-all-button1 {
+    background-color: #30e3ca; /* Button color */
+    color: #fff; /* Text color */
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .view-all-button:hover {
+    background-color: #11999e; /* Darker button color on hover */
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #40514e; /* Footer background color */
+    color: #fff; /* Text color */
+    padding: 1rem;
+    text-align: center;
+  }
+  
