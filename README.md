@@ -31,7 +31,6 @@ Landing Page | Search ![image](https://github.com/dhanashrisonawane28/DevDynamic
 Devloper Activty | All Activity ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/4da64d47-6871-4668-a5e6-d60486a9d938)
 Devloper Activity | Specific Activity Bar Graph] ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/497127a7-44e7-45c1-970f-dcbfb67f58a4)
 Devloper Activity | Specific Day Bar Graph] ![image](![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/111559057/c3c58496-3771-4263-b28c-9d021b9d159e)
-)
 Statistic | Devloper Stats/Per Day ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/f4470b34-a737-43bf-ba3e-26376bc655c2)
 
 
