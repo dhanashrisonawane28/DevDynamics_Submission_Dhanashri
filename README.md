@@ -26,10 +26,10 @@ To run tests, run the following command
 
 ## Screenshots
 
-Landing Page | Devloper List [image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/438b1e8f-0c8c-44d5-b376-7c76147296dc)
-Landing Page | Search [image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/689dbac3-7008-4631-9ed6-7ee3591a41cc)
-Devloper Activty | All Activity [image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/4da64d47-6871-4668-a5e6-d60486a9d938)
-Devloper Activity | Specific Activity Bar Graph] [image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/497127a7-44e7-45c1-970f-dcbfb67f58a4)
+Landing Page | Devloper List ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/438b1e8f-0c8c-44d5-b376-7c76147296dc)
+Landing Page | Search ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/689dbac3-7008-4631-9ed6-7ee3591a41cc)
+Devloper Activty | All Activity ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/4da64d47-6871-4668-a5e6-d60486a9d938)
+Devloper Activity | Specific Activity Bar Graph] ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/497127a7-44e7-45c1-970f-dcbfb67f58a4)
 Statistic | Devloper Stats/Per Day ![image](https://github.com/dhanashrisonawane28/DevDynamics_Submission_Dhanashri/assets/89679996/f4470b34-a737-43bf-ba3e-26376bc655c2)
 
 
